@@ -1,3 +1,4 @@
+<img src="https://files.catbox.moe/4ve6yy.png">
 <p align="center">
 <a href="https://hits.sh/github.com/sproutsona/"><img alt="Hits" src="https://hits.sh/github.com/sproutsona.svg?style=for-the-badge&label=SFAWTDE&extraCount=100&color=963369&labelColor=867A64"/></a>
 <p align="center">
