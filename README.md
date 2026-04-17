@@ -13,5 +13,4 @@
 <a href="https://rentry.co/sproutcidio">rentry</a>  𖹭 
 <a href="https://sproutsona.straw.page/">strawpage</a>
 <p align="center">
-━━━ <a href="https://github.com/sproutsona">main</a> ━━━
 <img src="https://github.com/little-unstable/little-unstable/blob/08ab232e2e173ff102ece2db7b4ce20bab1798b7/337%20sin%20t%C3%ADtulo_20260417153933.png">
