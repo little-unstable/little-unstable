@@ -1,10 +1,10 @@
 <p align="center">
-<a href="https://hits.sh/github.com/sproutsona/"><img alt="Hits" src="https://hits.sh/github.com/sproutsona.svg?style=for-the-badge&label=paycheck&extraCount=100&color=963369&labelColor=867A64"/></a>
+<a href="https://hits.sh/github.com/sproutsona/"><img alt="Hits" src="https://hits.sh/github.com/sproutsona.svg?style=for-the-badge&label=SFAWTDE&extraCount=100&color=963369&labelColor=867A64"/></a>
 <p align="center">
-<img src="https://files.catbox.moe/agvea9.png">
+<img src="https://files.catbox.moe/u0djxv.png">
 <br>
-<br> ${\textsf{\color{#963369}mind if I get a}}$
- ${\textsf{\color{#867A64} slice}}$ ${\textsf{\color{#963369}as a good luck}}$ ${\textsf{\color{#867A64}charm}}$ <br>
+<br> ${\textsf{\color{#963369}Your universe is looking a little unstable. .}}$
+ <br>
 <p align="center">
 ──── ୨୧ ────
 <p align="center">
