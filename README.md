@@ -4,7 +4,7 @@
 <p align="center">
 <img src="https://github.com/little-unstable/little-unstable/blob/08ab232e2e173ff102ece2db7b4ce20bab1798b7/337%20sin%20t%C3%ADtulo_20260417153834.png">
 <br>
-<br> ${\textsf{\color{#D152AB}Your universe is looking a little unstable. .}}$
+<br> ${\textsf{\color{#D152AB}Your universe is looking a "little unstable". .}}$
  <br>
 <p align="center">
 ──── ୨୧ ────
